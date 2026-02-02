@@ -45,7 +45,7 @@ Camouflaged object detection (COD) is highly challenging due to the strong visua
 <p align="center">
     <img src="assets/Figure_3.png"/> <br />
     <em> 
-    <b>Figure. 3:</b> Qualitative comparison with 9 SOTA methods under various challenging scenarios, including different sizes (large, medium, small) of objects, multiple objects, and with complex background interference. Zoom in and view in color for more details.
+    <b>Figure. 3:</b> Qualitative comparison with 9 SOTA methods under various challenging scenarios, including different sizes (large, medium, small) of objects, multiple objects, and with complex background interference.
     </em>
 </p>
 
